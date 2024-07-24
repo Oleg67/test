@@ -6,7 +6,7 @@ This project aims to build a model to predict a target variable based on 53 anon
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Oleg67/test.git]
+   git clone https://github.com/Oleg67/test.git
    cd test
    
 2. **Install the required packages:**  
